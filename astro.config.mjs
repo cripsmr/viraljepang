@@ -3,7 +3,7 @@ import cloudflare from '@astrojs/cloudflare';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://simontokviral.pages.dev',
+  site: 'https://viraljepang.pages.dev',
   output: 'server',
   adapter: cloudflare(),
   integrations: 
